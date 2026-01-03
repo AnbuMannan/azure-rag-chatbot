@@ -1,8 +1,10 @@
-![Azure](https://img.shields.io/badge/Azure-OpenAI-blue)
+[![AI-102](https://img.shields.io/badge/AI--102-Azure%20AI%20Engineer%20Associate-blueviolet)](https://learn.microsoft.com/certifications/azure-ai-engineer/)
+[![Azure OpenAI](https://img.shields.io/badge/Azure-OpenAI-0078D4?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/azure/ai-services/openai/)
 ![Python](https://img.shields.io/badge/Python-3.10+-green)
 ![AI](https://img.shields.io/badge/AI-RAG-orange)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 
 # Azure RAG Chatbot (Retrieval-Augmented Generation)
 

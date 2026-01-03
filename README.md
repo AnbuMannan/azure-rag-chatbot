@@ -1,3 +1,9 @@
+![Azure](https://img.shields.io/badge/Azure-OpenAI-blue)
+![Python](https://img.shields.io/badge/Python-3.10+-green)
+![AI](https://img.shields.io/badge/AI-RAG-orange)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 # Azure RAG Chatbot (Retrieval-Augmented Generation)
 
 An end-to-end Retrieval-Augmented Generation (RAG) chatbot built using **Azure OpenAI**, **Azure AI Search**, and **Azure Document Intelligence**.
